@@ -1,0 +1,13 @@
+{
+  "name": "emora-clean-demo",
+  "version": "8.0.0",
+  "private": true,
+  "type": "module",
+  "description": "EMORA clean Railway-ready interactive mini-site demo",
+  "scripts": {
+    "start": "node server.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
